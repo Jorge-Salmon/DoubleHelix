@@ -1,0 +1,9 @@
+How to import modules in python3
+
+DNA Transcription:          from DoubleHelix_transcript import transcript_DNA
+DNA Reverse Complement:     from DoubleHelix_revcomp_dna import revcomp_dna
+RNA Reverse Complement:     from DoubleHelix_revcomp_rna import revcomp_rna
+DNA transl. to amin. seq:   from DoubleHelix_translate_dna import translate_DNA
+RNA transl. to amin. seq:   from DoubleHelix_translate_rna import translate_RNA
+
+Copyright Jorge Salmon Gamboa
