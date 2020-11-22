@@ -5,7 +5,7 @@
 
 Bioinformatics tools for DNA/RNA sequence analysis.
 <p align="center">
-<img src="https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG" width="650">
+<img src="https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG" width="600">
 </p>
 
 Requirements:
