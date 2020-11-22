@@ -14,11 +14,12 @@ Requirements:
 ## What can be done with DoubleHelix?
 
 - Generate a random DNA/RNA sequence
-- Read sequence from .txt file
+- Read a sequence from .txt file
 - DNA transcription
 - DNA/RNA translation to an aminoacid sequence
 - Find the six open reading frames from DNA/RNA sequences
 - Find all possible proteins generated from the open reading frames
+- Save results in a .txt file
 
 ## How to use:
 
