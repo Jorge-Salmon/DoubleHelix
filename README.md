@@ -5,6 +5,10 @@
 
 Bioinformatics tools for DNA/RNA sequence analysis.
 
+
+![alt text](https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG)
+
+
 Requirements:
 PyQt5 
 
