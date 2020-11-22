@@ -5,22 +5,18 @@
 
 Bioinformatics tools for DNA/RNA sequence analysis.
 
-
-![alt text](https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG)
-
+<img src="https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG" width="48">
 
 Requirements:
-PyQt5 
-
-
+- PyQt5 
 
 ## What can be done with DoubleHelix?
 
-Generate a random DNA/RNA sequence
-DNA transcription
-DNA/RNA translation to an aminoacid sequence
-Find the six open reading frames from DNA/RNA sequences
-Find all possible proteins generated from the open reading frames
+- Generate a random DNA/RNA sequence
+- DNA transcription
+- DNA/RNA translation to an aminoacid sequence
+- Find the six open reading frames from DNA/RNA sequences
+- Find all possible proteins generated from the open reading frames
 
 ## How to use:
 
