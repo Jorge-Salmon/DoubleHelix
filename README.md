@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/Python-3.7.4-green)
 
 
-Bioinformatics tools for DNA/RNA sequence analysis.
+Bioinformatics software for DNA/RNA sequence analysis.
 <p align="center">
 <img src="https://github.com/Jorge-Salmon/DoubleHelix/blob/master/DH.PNG" width="600">
 </p>
