@@ -24,3 +24,9 @@ Requirements:
 ## How to use:
 
 After installing PyQt5 (in a virtual environment), run app.py
+
+
+## License
+MIT License
+
+Copyright (c) 2020 Jorge Salmon
